@@ -1,5 +1,8 @@
 # AI Trends Forecasting Dashboard
 
+[The AI Forecasting Hackathon](https://apartresearch.com/sprints/the-ai-forecasting-hackathon-2025-10-31-to-2025-11-02)
+
+
 A machine learning system that analyzes historical AI industry data and forecasts future trends using LSTM neural networks. The project provides interactive visualizations showing both historical patterns and 5-year predictions across 19 different AI-related metrics.
 
 ## What It Does
